@@ -1,4 +1,4 @@
-# Prerequisitesss
+# Prerequisitess
 ####
 - JDK 20 
 - Maven 3.9 
