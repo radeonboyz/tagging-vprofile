@@ -2,7 +2,7 @@
 ####
 - JDK 20 
 - Maven 3.9 
-- MySQL 8
+- MySQL 10
 
 # Technologies 
 - JAKARTA
